@@ -56,7 +56,7 @@ Un projet web pour apporter un peu de joie et de rire dans votre journée.
 1. **Téléchargez le projet** : Clonez ce dépôt ou téléchargez les fichiers `index.html`, `credits.html`, `secret.html` et les ressources associées.
 
 ```bash 
-git clone https://github.com/sfeirc/JokeAPI.git
+git clone https://github.com/sfeirc/JokeAPI_Formulaire_APP.git
 ```
 
 2. **Assurez-vous d'avoir une connexion Internet** pour charger les ressources externes (Bootstrap, Font Awesome, Google Fonts).
