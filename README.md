@@ -49,7 +49,6 @@ Un projet web pour apporter un peu de joie et de rire dans votre journée.
 - **Sauvegarde Locale** : Les blagues sont stockées localement dans votre navigateur grâce à `localStorage`.
 - **Animations Fluides** : Animations lors de l'ajout, de la suppression des blagues et du chargement de la page.
 - **Page des Crédits avec Animation** : Découvrez l'auteur du site avec une page dédiée comportant une animation de rideau.
-- **Thème Sombre Élégant** : Interface moderne avec un thème sombre pour une meilleure lisibilité.
 - **Page Secrète Accessible via le Konami Code** : Une page cachée accessible en entrant le Konami Code, offrant des blagues de catégories sensibles (NSFW, religieuses, politiques, racistes, sexistes, explicites) avec un thème rouge distinctif.
 
 ## Installation
@@ -101,9 +100,9 @@ git clone https://github.com/sfeirc/JokeAPI.git
 
 1. **Ouvrez `credits.html` dans votre navigateur**.
 2. **Lancez l'animation** :
-   - Appuyez sur la touche "Entrée" ou cliquez sur le message "Appuyez sur Entrée".
+   - Appuyez sur une touche  ou cliquez sur le message "Cliquez pour commencer".
 3. **Découvrez l'auteur** :
-   - Après l'animation, votre photo, nom et description apparaissent.
+   - Après l'animation, la photo, nom et description de l'auteur apparait.
 4. **Naviguez sur le site** :
    - Utilisez la barre de navigation pour retourner à l'accueil ou explorer d'autres pages.
 
@@ -115,7 +114,6 @@ git clone https://github.com/sfeirc/JokeAPI.git
 - **Blagues Sensibles** : Obtenez des blagues de catégories sensibles (NSFW, religieuses, politiques, racistes, sexistes, explicites) non disponibles sur la page principale.
 - **Ajout de Blagues Sensibles Personnalisées** : Ajoutez vos propres blagues dans ces catégories sensibles.
 - **Sauvegarde Locale Séparée** : Les blagues sont stockées localement, séparément de la page principale.
-- **Thème Rouge Distinctif** : Interface avec un thème rouge pour différencier de la page principale.
 
 #### Instructions pour la Page Secrète
 
@@ -152,7 +150,3 @@ git clone https://github.com/sfeirc/JokeAPI.git
 - **Font Awesome** pour les icônes élégantes.
 - **Google Fonts** pour les polices attrayantes.
 - **Communauté Web** pour les ressources et l'inspiration.
-
----
-
-*Ce projet est à des fins éducatives et personnelles. N'hésitez pas à le modifier et à l'améliorer selon vos besoins.*
