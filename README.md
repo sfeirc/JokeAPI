@@ -15,7 +15,10 @@
 
 ---
 
-Un projet web pour apporter un peu de joie et de rire dans votre journée.
+JokeAPI Formulaire APP est un projet qui vous permet de générer des blagues aléatoires, d'ajouter vos propres blagues et de les gérer facilement à travers une interface web intuitive. Il exploite l'API JokeAPI pour fournir une variété de blagues provenant de différentes catégories, vous offrant ainsi une expérience divertissante et personnalisable. Avec des fonctionnalités telles que la sauvegarde locale, des animations fluides et une page secrète accessible via le Konami Code, cette application vise à apporter une touche d'humour à votre quotidien tout en vous permettant de participer activement à la création de contenu.
+
+
+
 
 ## Table des Matières
 
